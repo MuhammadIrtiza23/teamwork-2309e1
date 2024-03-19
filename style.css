@@ -1,0 +1,19 @@
+#form{
+    width: 25%;
+    margin-left: 35%;
+}
+legend{
+    display: flex;
+    justify-content: center;
+}
+#legend{
+    display: flex;
+    justify-content: center;
+}
+#legen{
+    display: flex;
+    justify-content: center;
+}
+#hi{
+   margin-left: 40%;
+}
